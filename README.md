@@ -1,4 +1,4 @@
-**A simple bash script to extract all url's from A decompile folder**
+**A simple bash script to extract all the urls from a decompile folder **
 
 
 # Run:
