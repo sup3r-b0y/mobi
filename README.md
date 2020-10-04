@@ -1,8 +1,6 @@
 **A simple bash script to extract all the urls from a decompile folder.**
 
 
-**Mobile Application Recon**
-
 
 # Run:
 
@@ -15,6 +13,8 @@ $ chmod +x mobi.sh
 $ ./mobi.sh [decompile folder location]
 
 ```
+
+#**Mobile Application Recon**
 
 
 **Twitter https://twitter.com/mitunjoy11**
