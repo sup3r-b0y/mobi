@@ -12,3 +12,6 @@ $ chmod +x mobi.sh
 $ ./mobi.sh [decompile folder location]
 
 ```
+
+
+**Twitter https://twitter.com/mitunjoy11**
