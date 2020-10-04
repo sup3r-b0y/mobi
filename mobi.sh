@@ -3,10 +3,10 @@
 #Author Mrityunjoy
 echo -e "\n"
 
-DOMAIN=$1
+MOBI=$1
 
 
-echo "To extract all url's from A decompile Folder (Android Recon)"
+echo "To extract all the urls from a decompile folder (Mobile Application Recon)"
 
 echo "by Mrityunjoy (sup3r-b0y) Twitter: @mitunjoy1 , HackerOne: https://hackerone.com/sup3r-b0y"
 
